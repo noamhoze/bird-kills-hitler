@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="Bird Kills Hitler" GUID="{69E2F268-F502-426B-9E9B-C89AB1C56563}" Generator="2022.1.1.8100"/>
+	<CacheRoot>../../../../../Bird Kills Hitler - V1/wwise project/.cache/</CacheRoot>
+	<Platforms>
+		<Platform Name="Mac" GUID="{02E5D0EE-5F15-4D36-9231-80FE279E4546}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="../../../../../Bird Kills Hitler - V1/wwise project/GeneratedSoundBanks/Mac/"/>
+		<Platform Name="Windows" GUID="{32F33A94-3DFC-4888-AE61-9AA2B9B2813C}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../../Bird Kills Hitler - V1/wwise project/GeneratedSoundBanks/Windows/"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{7A637D11-432D-471D-A084-F4E94EFED9A2}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{26D76753-B014-4F63-66EA-99C9D62612C7}</FileHash>
+</ProjectInfo>
